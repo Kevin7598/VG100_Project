@@ -1,1 +1,1 @@
-# VG100_Project
+# VG100_Project: A laser tracing rover
